@@ -40,6 +40,8 @@ To gain real-world experience through WIL/entry-level roles in **frontend develo
 ### 📊 GitHub Stats
 
 ![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamogelo-ke&show_icons=true&theme=tokyonight)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamogelo-ke&layout=compact&theme=tokyonight)
 
 ---
